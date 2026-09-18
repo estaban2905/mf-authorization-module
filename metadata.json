@@ -1,0 +1,7 @@
+{
+  "name": "Autenticación Corporativa",
+  "description": "Pantalla de autenticación y registro e-commerce moderna, responsive, con inicio de sesión social, validación de contraseñas y diseño de alta conversión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
